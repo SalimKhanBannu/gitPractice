@@ -13,7 +13,12 @@ style="width:100%;max-width:960px"></div>
 <p>A new line in our file!</p>
 
 <p>This is the first file in my new Git Repo.</p>
-<p>This line is here to show how merging works.</p>
+<p>This line is here to show how merging
+    This line is here to show how merging works. This line is here to show how merging works
+    This line is here to show how merging works
+    This line is here to show how merging works
+    This line is here to show how merging works
+    This line is here to show how merging works</p>
 
 </body>
 </html>
